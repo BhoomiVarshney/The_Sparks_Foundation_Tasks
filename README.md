@@ -1,5 +1,5 @@
 # The_Sparks_Foundation_Tasks
-Task 1 was given in which prediction of percentage was made based on number of hours of studies for a student.
+Task 1 is about prediction of percentage was made based on number of hours of studies for a student.
 Prediction model is using supervised ML.
 Firstly libraries are imported, then data is imported.Data is explored further.
 It is then visualised using matplotlib.
